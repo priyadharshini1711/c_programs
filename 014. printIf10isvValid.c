@@ -1,3 +1,7 @@
+/*
+print if a = 10 is valid
+*/
+
 #include<stdio.h>
 
 int main() {

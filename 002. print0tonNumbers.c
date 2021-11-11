@@ -1,3 +1,7 @@
+/*
+print 0 to n numbers
+*/
+
 #include<stdio.h>
 
 void main(){

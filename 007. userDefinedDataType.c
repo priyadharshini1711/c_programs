@@ -1,3 +1,7 @@
+/*
+user defined data type
+*/
+
 #include<stdio.h>
 
 int main()  

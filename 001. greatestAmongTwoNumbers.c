@@ -1,3 +1,7 @@
+/*
+greatest of 2 numbers
+*/
+
 #include<stdio.h>
 
 void main(){

@@ -1,6 +1,7 @@
 /*
 find if a is greater or smaller than b
 */
+
 #include <stdio.h>
 
 int main() {

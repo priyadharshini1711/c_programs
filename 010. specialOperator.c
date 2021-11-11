@@ -1,3 +1,7 @@
+/*
+special operator
+*/
+
 #include <stdio.h>
 
 int main() {

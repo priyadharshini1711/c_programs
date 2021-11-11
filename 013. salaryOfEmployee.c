@@ -1,3 +1,7 @@
+/*
+calculate salary of an employee
+*/
+
 #include <stdio.h>
 
 int main() {

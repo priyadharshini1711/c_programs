@@ -1,3 +1,7 @@
+/*
+print 0 to n and quit if 5
+*/
+
 #include<stdio.h>
 
 void main(){

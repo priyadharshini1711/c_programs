@@ -1,3 +1,7 @@
+/*
+input ouput statement
+*/
+
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,7 @@
+/*
+print if a is greater or b
+*/
+
 #include <stdio.h>
 
 int main() {

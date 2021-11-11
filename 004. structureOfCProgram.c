@@ -1,3 +1,7 @@
+/*
+structure of c program
+*/
+
 #include<stdio.h>
 
 void main(){

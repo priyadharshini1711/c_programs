@@ -1,3 +1,7 @@
+/*
+escape sequences
+*/
+
 #include<stdio.h>
 
 void main(){
